@@ -18,6 +18,6 @@ Adva vannak a következő forrás fájlok: index.html, lista.txt, link.txt és a
 14. Adjunk a táblázatnak 1px-es keretet, kék színűt és minden cellának egy 5px-es belső margót,  a mintának megfelelően
 15. A táblázat fejlécének legyen kék háttére, s a benne levő szöveg legyen fehér színű, a mintának megfelelően.
 16. A táblázat celláinak tartalma legyen középre igazított.
-17. A láblécbe szúrjunk be egy hívatkozást a link.txt fájlban található linket.  A link szövege legyen a következő:„További olvasnivaló a bluetooth eszközökről”
+17. A láblécbe szúrjunk be egy hívatkozást a link.txt fájlban található linket.  A link szövege legyen a következő: „További olvasnivaló a bluetooth eszközökről”
 18. Ha a felhasználó kattint a linkre az oldal nyíljon meg új böngészőablakban.
 19. Hozzunk létre helyi repot, távoli repot, kapcsoljuk össze, majd publikáljuk az oldalt a GitHub-on és a publikált weboldal url-jét tessenek csak csatolni ide!
